@@ -28,7 +28,7 @@ Currently Rental bikes are introduced in many urban cities for the enhancement o
 
 ### Output Variable
 
-* Rented Bike count - Count of bikes rented at each hour
+* Rented Bike count - Count of bikes rented at each hour  
 
 ## Project Workflow
 1) Importing dataset and basic python libraries
